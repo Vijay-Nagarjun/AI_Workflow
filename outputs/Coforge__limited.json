@@ -1,0 +1,27 @@
+{
+  "company": "Coforge Limited",
+  "descriptor": "Indian IT services and consulting company (formerly NIIT Technologies), headquartered in Noida, Uttar Pradesh, India; listed on NSE as COFORGE; operates globally including as Coforge Inc in the US",
+  "classification": {
+    "account_type": "Systems Integrator (SI)",
+    "platforms": [
+      "Salesforce",
+      "ERP (SAP/Oracle)",
+      "Pega",
+      "Appian",
+      "MuleSoft"
+    ],
+    "pain_point": "Speed and complexity of multi-platform delivery: large-scale digital transformation and legacy modernization across Salesforce, ERP, Pega, and Appian create testing bottlenecks, documentation gaps, and manual configuration overhead that slow cycle times.",
+    "decision_maker_title": "SVP / Head of Enterprise Applications Delivery",
+    "recent_signal": "Reported revenue growth nearly 8x the industry average and recognized as Great Place to Work for 5 consecutive years; actively expanding Global Capability Centers and hiring for Salesforce, ERP, and Pega delivery roles."
+  },
+  "email": "Your Global Capability Centers expansion and 8x industry revenue growth mean more Salesforce, ERP, and Pega projects hitting delivery teams simultaneously. Testing bottlenecks and manual configuration overhead across those platforms stretch cycle times thin.\n\nLab0's AI agents handle discovery, configuration, testing, and change requests across Salesforce, SAP, and Pega \u2014 cutting the manual steps that slow multi-platform rollouts.\n\nGiven the Salesforce and Pega hiring push, would a 15-minute look at the testing-automation step fit your GCC onboarding sprint?",
+  "quality": {
+    "specificity_score": 9,
+    "relevance_score": 9,
+    "tone_score": 8,
+    "generic_phrases_flagged": [
+      "15-minute look"
+    ],
+    "suggested_improvement": "Replace the generic '15-minute look' with a concrete offer like 'share a 2-page case study of how we cut Pega testing cycle time by 60% for a similar GCC rollout' to give the recipient a tangible reason to engage."
+  }
+}

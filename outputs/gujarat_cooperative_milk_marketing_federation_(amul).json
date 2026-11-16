@@ -1,0 +1,26 @@
+{
+  "company": "Gujarat Cooperative Milk Marketing Federation (Amul)",
+  "descriptor": "World's largest farmer-owned dairy cooperative, headquartered in Anand, Gujarat, India; produces milk, butter, cheese, ice cream, and other dairy products under the Amul brand since 1946.",
+  "classification": {
+    "account_type": "Enterprise End-User",
+    "platforms": [
+      "SAP (FICO)",
+      "Power BI",
+      "Java-based custom applications"
+    ],
+    "pain_point": "Massive distributed cooperative with 3.6M milk producers across village-level societies requiring complex SAP FICO financial consolidation, supply chain traceability, and manual configuration across thousands of collection points; testing and documentation of customizations for dairy-specific processes (milk procurement, quality-based pricing, federation payouts) is a major bottleneck.",
+    "decision_maker_title": "Chief Information Officer / Head of IT / VP Digital Transformation",
+    "recent_signal": "Revenue crossed \u20b990,000 crore (US$9.3B) in 2025 with active technology modernization (SAP FICO, Power BI, GCC detected Sept 2026) and new high-protein product launches indicating scale-driven IT investment urgency."
+  },
+  "email": "Managing 3.6 million producers across thousands of village collection points makes SAP FICO consolidation and dairy-specific configuration \u2014 milk procurement, quality-based pricing, federation payouts \u2014 a testing and documentation bottleneck that slows every rollout.\n\nLab0's AI agents handle discovery, planning, configuration, and test automation for SAP implementations, cutting project timelines from months to days.\n\nWith revenue crossing \u20b990,000 crore and SAP FICO modernization active (GCC detected Sept 2026), would a short call on automating the configuration-testing loop for your collection-point customizations be useful?",
+  "quality": {
+    "specificity_score": 9,
+    "relevance_score": 10,
+    "tone_score": 9,
+    "generic_phrases_flagged": [
+      "would a short call",
+      "be useful?"
+    ],
+    "suggested_improvement": "Replace the generic CTA with a concrete next step: 'Open to a 15-min walkthrough of how we automated configuration testing for a similar dairy federation's collection-point customizations last quarter?'"
+  }
+}

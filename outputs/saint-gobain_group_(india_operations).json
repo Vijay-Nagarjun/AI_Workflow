@@ -1,0 +1,26 @@
+{
+  "company": "Saint-Gobain Group (India operations)",
+  "descriptor": "Indian arm of the French multinational Saint-Gobain, comprising building-materials businesses (e.g., Grindwell Norton Limited) and the International IT Delivery Centre (INDEC) in Mumbai, serving the group's global operations.",
+  "classification": {
+    "account_type": "Enterprise End-User",
+    "platforms": [
+      "SAP ECC",
+      "SAP S/4HANA",
+      "SAP Concur",
+      "SAP Financial Supply Chain Management",
+      "ServiceNow",
+      "Microsoft Dynamics 365"
+    ],
+    "pain_point": "Large captive IT delivery center (INDEC, 1,900+ staff) managing global SAP/ServiceNow/D365 rollouts across 70 countries; key pains are speed of multi-country deployments, regression testing across complex landscapes, and manual configuration effort during template-driven global implementations.",
+    "decision_maker_title": "Head of INDEC / VP IT Delivery India / Global SAP Program Director",
+    "recent_signal": "INDEC headcount grew 7% YoY to 1,932 employees (March 2026) and Microsoft Dynamics 365 was newly detected in the global tech stack (Sept 2026), signaling expanding implementation capacity and new platform adoption."
+  },
+  "email": "INDEC's 1,932-person team managing SAP and ServiceNow rollouts across 70 countries faces a familiar bottleneck: regression testing every template change before each country go-live. Lab0's AI agents handle configuration, testing, and change requests across SAP, ServiceNow, and Dynamics 365 \u2014 cutting implementation cycles from months to days. The September Dynamics 365 addition to your stack suggests another wave of multi-country deployments; would Thursday work for a 15-minute look at the regression-testing step?",
+  "quality": {
+    "specificity_score": 9,
+    "relevance_score": 10,
+    "tone_score": 9,
+    "generic_phrases_flagged": [],
+    "suggested_improvement": "Add a one-sentence proof point (e.g., \"We helped a 50-country SAP rollout cut regression cycles 80%\") to make the value claim concrete."
+  }
+}

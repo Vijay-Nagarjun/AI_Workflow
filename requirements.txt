@@ -1,0 +1,4 @@
+requests
+python-dotenv
+streamlit
+pydantic>=2
