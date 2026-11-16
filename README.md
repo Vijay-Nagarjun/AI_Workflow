@@ -45,7 +45,7 @@ Output: account brief (JSON) + final email + quality scores
 
 ## What I Found Building This
 
-I ran the pipeline on 10 real Indian SIs and ISVs — Persistent Systems, Mphasis, Hexaware, Coforge, Wipro, CRED, Amul, Titan International, Saint-Gobain, and Infosys BPM — and read every output by eye. Ten real bugs surfaced, documented in [`DEBUG_LOG.crdownload`](./DEBUG_LOG.crdownload).
+I ran the pipeline on 10 real Indian SIs and ISVs — Persistent Systems, Mphasis, Hexaware, Coforge, Wipro, CRED, Amul, Titan International, Saint-Gobain, and Infosys BPM — and read every output by eye. Ten real bugs surfaced, documented in [`DEBUG_LOG.md`](./DEBUG_LOG.md).
 
 The two most serious:
 
@@ -53,7 +53,7 @@ The two most serious:
 
 **Wrong entity (CRED).** Search results for "CRED" pulled snippets for a different organisation. The classifier ran with it and tagged CRED as a Salesforce SI. Fix: added a disambiguation step that checks whether the name is ambiguous before researching it, and saves raw search results alongside every output so the pipeline is auditable.
 
-Full list of all 10 bugs and fixes: [`DEBUG_LOG.crdownload`](./DEBUG_LOG.crdownload).
+Full list of all 10 bugs and fixes: [`DEBUG_LOG.md`](./DEBUG_LOG.md).
 
 ---
 
@@ -171,7 +171,7 @@ working on?
 - **Thin web presence** — companies with minimal online footprint produce weaker classifications. A LinkedIn search step would improve this; not yet built.
 - **Rate limit on OpenRouter free tier** — 50 requests/day shared across all free models. Add $10 credits to unlock 1,000/day, or switch to Claude API directly (costs cents per company at these text lengths).
 
-Full details: [`DEBUG_LOG.crdownload`](./DEBUG_LOG.crdownload).
+Full details: [`DEBUG_LOG.md`](./DEBUG_LOG.md).
 
 ---
 
